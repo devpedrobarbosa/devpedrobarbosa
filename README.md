@@ -30,7 +30,7 @@
 Want to talk code, collab on a project, or just say hi?  
 Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/pedrogabry](https://www.linkedin.com/in/pedro-gabry-barbosa-6a1285290/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-gabry-barbosa-6a1285290)  
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrobarbosa@gmail.com)
 
 ---
