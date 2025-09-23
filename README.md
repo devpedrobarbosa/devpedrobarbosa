@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Pedro Barbosa
 
-🎓 **Computer Science @ Universidade Veiga de Almeida** (5th/8 semester)  
+🎓 **Computer Science @ Universidade Veiga de Almeida** (6th/8 semester)  
 🧠 **Full-Stack Developer** with a passion for clean code & scalable systems  
 🌍 **Based in Rio de Janeiro, Brazil**  
 💬 I speak Java, Node.js, SQL — and sarcasm fluently  
