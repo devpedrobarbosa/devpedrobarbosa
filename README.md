@@ -9,11 +9,9 @@
 
 ### 🧰 Tech Stack
 ```
-💻 Languages:      Java • TypeScript • SQL • JavaScript
-⚙️ Backend:       Node.js • Express • Spring Boot • Redis
-🧠 DB & Storage:  PostgreSQL • MySQL • MongoDB
-🌐 Frontend:       Vue.js • React • Tailwind • HTML/CSS
-🔧 Tools:          Git • Docker • Linux • Nginx • AWS (EC2, S3)
+💻 Languages:            Java • Python • TypeScript
+⚙️ Frameworks & Tools:   Spring Boot • Node.js • Vue.js • Git • Docker • Flask
+🧠 DB & Storage:         MySQL • PostgreSQL • SQLite • MongoDB • Redis
 ```
 
 ---
