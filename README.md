@@ -18,24 +18,6 @@ With over 4 years of hands-on development experience, I’ve worked on large Jav
 - Performance optimization & system stability
 - Turning complex requirements into clean implementations
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-Java • TypeScript • Python • SQL
-
-### ⚙️ Backend & Infrastructure
-Spring Boot • Node.js • Redis • Docker • REST APIs
-
-### 🌐 Frontend
-Vue.js • Modern JavaScript/TypeScript
-
-### 🗄 Databases
-PostgreSQL • MySQL • MongoDB • SQLite
-
----
-
 ## 📊 GitHub Stats
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpedrobarbosa&show_icons=true&theme=radical&hide_rank=true)  
